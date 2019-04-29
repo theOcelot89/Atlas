@@ -1,0 +1,28 @@
+report 19/4/2019:
+
+Made all functions for creating,shuffling and making holland cards from deck
+Functions for creating,arranging and printing table
+Functions for accepting players and creating instances of them
+Classes created : Card, Player, Player_Stats
+
+
+
+
+report 29/4/2019:
+
+Rearragned main and objects and functions
+Created functions (players to objects,holland_check,who_splits)
+Created a player object methods (give_card, split)
+
+
+
+
+TODO
+-->decide who splits first(simulate split till first ACE)
+--> decide who player plays first and the way to decide this(first game or not)
+--> create different types of split
+-->stats
+-->main logic
+
+
+
