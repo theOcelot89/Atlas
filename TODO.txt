@@ -16,6 +16,15 @@ Created a player object methods (give_card, split)
 
 
 
+report 7/5/2019:
+
+changed chairs dictionary to chairs list
+started player's play method - incomplete
+started check for valid play functions - incomplete
+
+
+
+
 
 TODO
 -->decide who splits first(simulate split till first ACE)
